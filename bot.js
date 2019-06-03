@@ -7,7 +7,7 @@ bot.on('ready', () =>{
 })
 
 
-bot.login("HddSKAuL0y3B2nUNuE5gzinrH4f_Krjw");
+bot.login("NDg5MTA3NTE1ODU5MDA5NTU2.XPTdMA.uvnvOrrEKouJT9qbBGVJYpMAyVg");
 
 bot.on('message',(message)=>{
     if(message.content=="!info"){ 
